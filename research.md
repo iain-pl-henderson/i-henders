@@ -45,5 +45,5 @@ conservation unidimensionnelles". Université Paris-Saclay/CentraleSupélec/IMT.
 
 <h4>Awards</h4>
 <ul>
-  <li>Best video presentation at the LIKE22 (Lifting Inference with Kernel Embeddings) event, Jan. 2022 (500 Swiss francs prize)</li>
+  <li>Best video presentation at the <a href="https://like22-bern.github.io/submission/">LIKE22</a> (Lifting Inference with Kernel Embeddings) event, Jan. 2022 (500 Swiss francs prize)</li>
 </ul>
