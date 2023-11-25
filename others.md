@@ -19,5 +19,5 @@ Here are some nice images I encountered during research. Most of these are not i
 </p>
 
 <p>
-<img src="online_files/img/dirac_source_nice.jpg" alt=""><figcaption>The level sets of the likelihood function associated to a well-chosen covariance function remind GPS localization methods. See this <a href="online_files/pdf/gpr_ivp.pdf">article</a> for details and explanations.</figcaption>
+<img src="online_files/img/dirac_source_nice.jpg" alt=""><figcaption>The level sets of the likelihood function associated to a well-chosen covariance function remind GPS localization methods. See this <a href="online_files/pdf/site_wave.pdf">article</a> for details and explanations.</figcaption>
 </p>
